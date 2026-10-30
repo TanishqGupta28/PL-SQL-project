@@ -1,0 +1,8 @@
+# FD Manager - Requirements
+# Python 3.10+ recommended
+
+# Charting and data visualization on Admin Dashboard
+matplotlib>=3.7.0
+
+# All other modules (tkinter, sqlite3, csv, hashlib, datetime, unittest)
+# are part of Python's standard library and require no external installation.
